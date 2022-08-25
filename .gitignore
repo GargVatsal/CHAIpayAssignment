@@ -1,6 +1,6 @@
 *.log
 report.html
-stuff.txt
 __init__.py
 assets/
 .pytest_cache/
+suff.txt
