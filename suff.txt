@@ -1,5 +1,0 @@
-https://chaifinance.notion.site/Chai-Intl-QA-Assignment-3ebd1772840a481ca68782a18632ed78
-
-format = >
-2022-08-22 19:36:24,123 : <log level> <textcase method name> : 'Message'
-"%(asctime)s : %(levelname)s : %(name)s : %(message)s"
